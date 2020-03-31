@@ -1,0 +1,6 @@
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\bin\Debug\ArgLinieCmd.exe.config
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\bin\Debug\ArgLinieCmd.exe
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\bin\Debug\ArgLinieCmd.pdb
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\obj\Debug\ArgLinieCmd.csprojAssemblyReference.cache
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\obj\Debug\ArgLinieCmd.exe
+C:\Users\Stefan\Desktop\TemaPiu\Tema\ArgLinieCmd\ArgLinieCmd\obj\Debug\ArgLinieCmd.pdb
